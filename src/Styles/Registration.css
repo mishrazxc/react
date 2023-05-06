@@ -1,12 +1,42 @@
 .form{
-    text-align: left;
+    /* text-align: left;
     padding: 40px;
     padding-top: 20px;
     margin-left: 610px;
+    margin: 40%;
     margin-top: 50px;
     float: left;
     border: 2px solid black;
-    border-radius: 30px;
+    border-radius: 30px; */
+    /* border: 2px solid black;
+    border-radius: 30px; 
+    margin: 33%;
+    padding: 3%; */
+}
+@media only screen and (max-width: 2000px) {
+    .form{
+    text-align: left;
+    padding-top: 20px;
+    margin-top: 50px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 30px; 
+    margin: 33%;
+    padding: 6%;
+    margin-top: 10%;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .form{
+    text-align: left;
+    padding-top: 20px;
+    margin-top: 50px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 30px; 
+    margin: 6%;
+    padding: 6%;
+    }
 }
 .form div{
     text-align: center;

@@ -43,7 +43,7 @@ function Food(props) {
             Price: "Price: 50",
             cost: 50
         }
-    
+
     ]
 
     function add(id) {

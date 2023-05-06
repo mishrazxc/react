@@ -1,10 +1,10 @@
 .checkout{
-    margin-top: 150px;
-    margin-left: 250px;
+    
+    margin: 10%;
     text-align: center;
     font-size: 30px;
     height: 180px;
-    width: 1000px;
+    width: 80%;
     border: 2px solid white;
     background-color:  rgb(240, 240, 240);
     border-radius: 10px;
@@ -16,4 +16,3 @@
     text-align: left;
     margin: 20px;
 }
-

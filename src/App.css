@@ -3,7 +3,7 @@
 }
 .Top{
   height: 6rem;
-  width: 100%;
+  width: 101%;
   background-color: rgb(28, 28, 144);
 }
 .App h1{
@@ -11,25 +11,24 @@
   padding: 20px;
   text-align: left;
   color: white;
+  
 }
 .logo{
   cursor: pointer;
 }
 
 
- 
+
 
   /* *{
     margin: 0px;
     padding: 0px;
   }
-
   nav{
     width: 100%;
     height: 60px;
     background-color: rgb(28, 28, 144);
   }
-
   .nav-box{
     width: 80%;
     margin: auto;
@@ -38,18 +37,15 @@
     justify-content: space-between;
     line-height: 60px;
   }
-
 .logo{
   font-size: 1.5rem;
   font-weight: bold;
   color: white;
   cursor: pointer;
 }
-
 .cart{
   cursor: pointer;
 }
-
 .cart span:nth-child(2){
   padding: 0px 3px;
   background-color: red;

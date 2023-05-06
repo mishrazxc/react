@@ -10,7 +10,7 @@ import './App.css';
 import { useState } from 'react';
 
 function App() {
-  const [page, setPage] = useState(1);
+  const [page, setPage] = useState(0);
   let item = null;
   if(page === 0){
     item = <Home setPage = {setPage}/>
@@ -41,8 +41,7 @@ function App() {
       {item}
     </div>
   );
-  
+
 }
 
 export default App;
-

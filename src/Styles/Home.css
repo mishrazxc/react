@@ -1,10 +1,11 @@
 .home{
     margin-top: 100px;
-    margin-left: 150px;
+    /* margin-left: 150px; */
+    margin: 10%;
     text-align: center;
     font-size: 30px;
     height: 300px;
-    width: 1200px;
+    width: 80%;
     border: 2px solid white;
     background-color:  rgb(240, 240, 240);
     border-radius: 10px;
